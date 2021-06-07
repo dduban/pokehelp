@@ -1,4 +1,4 @@
-# PokeHelp_ejb
+# PokeHelp
 Aplikacja internetowa będąca pomocnikiem do gry Pokemon GO
 
 ### Technologie
